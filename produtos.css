@@ -82,3 +82,14 @@ margin-top: 10px;
 
 }
 
+footer {
+	text-align: center;
+	background: url("bb.jpg");
+	padding: 40px 0;
+}
+
+.copyright {
+	font-size: 13px;
+	margin: 20px;
+}
+
